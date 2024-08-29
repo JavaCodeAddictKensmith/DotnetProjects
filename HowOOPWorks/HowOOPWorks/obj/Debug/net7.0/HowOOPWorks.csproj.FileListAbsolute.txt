@@ -1,0 +1,15 @@
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/bin/Debug/net7.0/HowOOPWorks
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/bin/Debug/net7.0/HowOOPWorks.deps.json
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/bin/Debug/net7.0/HowOOPWorks.runtimeconfig.json
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/bin/Debug/net7.0/HowOOPWorks.dll
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/bin/Debug/net7.0/HowOOPWorks.pdb
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.csproj.AssemblyReference.cache
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.AssemblyInfoInputs.cache
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.AssemblyInfo.cs
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.dll
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/refint/HowOOPWorks.dll
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.pdb
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/HowOOPWorks.genruntimeconfig.cache
+/Users/mac/Projects/HowOOPWorks/HowOOPWorks/obj/Debug/net7.0/ref/HowOOPWorks.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CC6AC83F-9241-4130-9301-C0C09A07CEE2}|Default">
+  <MonoDevelop.Ide.ItemProperties.HowOOPWorks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HowOOPWorks/Program.cs">
+    <Files>
+      <File FileName="HowOOPWorks/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HowOOPWorks" expanded="True" selected="True">
+            <Node name="HowOOPWorks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

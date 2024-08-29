@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{BD4B44FE-4955-4697-BFE3-C354BE8B574D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPBasicInC-Sharp/Abtraction/Shape.cs">
+    <Files>
+      <File FileName="OOPBasicInC-Sharp/Program.cs" Line="117" Column="2" />
+      <File FileName="OOPBasicInC-Sharp/Encapsulation/SeeEnapsulation.cs" Line="43" Column="41" />
+      <File FileName="OOPBasicInC-Sharp/Inheritance2/SecondInherit.cs" Line="33" Column="6" />
+      <File FileName="OOPBasicInC-Sharp/Abtraction/Shape.cs" Line="60" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPBasicInC-Sharp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OOPBasicInC-Sharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

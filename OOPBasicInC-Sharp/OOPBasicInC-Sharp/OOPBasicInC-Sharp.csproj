@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>OOPBasicInC_Sharp</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Encapsulation\" />
+    <None Remove="Inheritance2\" />
+    <None Remove="Abtraction\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Encapsulation\" />
+    <Folder Include="Inheritance2\" />
+    <Folder Include="Abtraction\" />
+  </ItemGroup>
+</Project>

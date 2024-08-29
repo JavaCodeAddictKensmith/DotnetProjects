@@ -1,0 +1,15 @@
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/bin/Debug/net7.0/OOPBasicInC-Sharp
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/bin/Debug/net7.0/OOPBasicInC-Sharp.deps.json
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/bin/Debug/net7.0/OOPBasicInC-Sharp.runtimeconfig.json
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/bin/Debug/net7.0/OOPBasicInC-Sharp.dll
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/bin/Debug/net7.0/OOPBasicInC-Sharp.pdb
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.csproj.AssemblyReference.cache
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.AssemblyInfoInputs.cache
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.AssemblyInfo.cs
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.dll
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/refint/OOPBasicInC-Sharp.dll
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.pdb
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/OOPBasicInC-Sharp.genruntimeconfig.cache
+/Users/mac/Projects/OOPBasicInC-Sharp/OOPBasicInC-Sharp/obj/Debug/net7.0/ref/OOPBasicInC-Sharp.dll

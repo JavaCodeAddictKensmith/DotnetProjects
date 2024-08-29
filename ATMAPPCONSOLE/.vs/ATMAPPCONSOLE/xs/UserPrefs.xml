@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8AE9BC90-7166-4462-8E86-7AA02C95B1F6}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ATMAPPCONSOLE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATMAPPCONSOLE/ATMOperationImpl.cs">
+    <Files>
+      <File FileName="ATMAPPCONSOLE/Program.cs" />
+      <File FileName="ATMAPPCONSOLE/IAtmOperationInterf.cs" />
+      <File FileName="ATMAPPCONSOLE/ATM.cs" />
+      <File FileName="ATMAPPCONSOLE/ATMOperationImpl.cs" Line="7" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATMAPPCONSOLE" expanded="True">
+            <Node name="ATMAPPCONSOLE" expanded="True">
+              <Node name="ATMOperationImpl.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

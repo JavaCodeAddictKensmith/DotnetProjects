@@ -1,0 +1,5 @@
+/Users/mac/Projects/ATMAPPCONSOLE/ATMAPPCONSOLE/obj/Debug/net7.0/ATMAPPCONSOLE.csproj.AssemblyReference.cache
+/Users/mac/Projects/ATMAPPCONSOLE/ATMAPPCONSOLE/obj/Debug/net7.0/ATMAPPCONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/ATMAPPCONSOLE/ATMAPPCONSOLE/obj/Debug/net7.0/ATMAPPCONSOLE.AssemblyInfoInputs.cache
+/Users/mac/Projects/ATMAPPCONSOLE/ATMAPPCONSOLE/obj/Debug/net7.0/ATMAPPCONSOLE.AssemblyInfo.cs
+/Users/mac/Projects/ATMAPPCONSOLE/ATMAPPCONSOLE/obj/Debug/net7.0/ATMAPPCONSOLE.csproj.CoreCompileInputs.cache

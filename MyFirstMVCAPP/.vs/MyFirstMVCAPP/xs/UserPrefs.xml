@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{B9998523-6BF1-4F30-B72F-5CF9100D1200}|https">
+  <MonoDevelop.Ide.ItemProperties.MyFirstMVCAPP PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstMVCAPP/wwwroot/lib/jquery-validation/dist/additional-methods.js">
+    <Files>
+      <File FileName="MyFirstMVCAPP/Views/Home/Index.cshtml" />
+      <File FileName="MyFirstMVCAPP/Controllers/HomeController.cs" />
+      <File FileName="MyFirstMVCAPP/wwwroot/css/site.css" />
+      <File FileName="MyFirstMVCAPP/Models/ErrorViewModel.cs" />
+      <File FileName="MyFirstMVCAPP/Properties/launchSettings.json" />
+      <File FileName="MyFirstMVCAPP/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="MyFirstMVCAPP/Views/Shared/Error.cshtml" />
+      <File FileName="MyFirstMVCAPP/Views/_ViewStart.cshtml" />
+      <File FileName="MyFirstMVCAPP/Views/_ViewImports.cshtml" />
+      <File FileName="MyFirstMVCAPP/wwwroot/js/site.js" />
+      <File FileName="MyFirstMVCAPP/wwwroot/lib/jquery/dist/jquery.js" />
+      <File FileName="MyFirstMVCAPP/wwwroot/lib/jquery-validation/dist/additional-methods.js" Line="1454" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstMVCAPP" expanded="True">
+            <Node name="MyFirstMVCAPP" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="jquery" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                  <Node name="jquery-validation" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                  <Node name="jquery-validation-unobtrusive" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
